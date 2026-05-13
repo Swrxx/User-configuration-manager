@@ -1,4 +1,4 @@
-´´´python
+````python
 def add_setting(setting, pair):
     user, profile = pair
     
@@ -43,4 +43,5 @@ def view_settings(setting):
 test_settings ={
     'theme': 'light'
 }
-´´´
+
+````
